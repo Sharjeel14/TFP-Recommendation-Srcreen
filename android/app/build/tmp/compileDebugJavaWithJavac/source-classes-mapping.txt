@@ -1,0 +1,14 @@
+com/tfp/BuildConfig.java
+ com.tfp.BuildConfig
+com/tfp/MainApplication.java
+ com.tfp.MainApplication
+ com.tfp.MainApplication$1
+com/tfp/MainActivity.java
+ com.tfp.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/tfp/ReactNativeFlipper.java
+ com.tfp.ReactNativeFlipper
+ com.tfp.ReactNativeFlipper$1
+ com.tfp.ReactNativeFlipper$2
+ com.tfp.ReactNativeFlipper$2$1
